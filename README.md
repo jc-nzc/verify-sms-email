@@ -8,7 +8,7 @@ Sequence is as follows:
 3. Only a user that is authorized will be sent an sms code
 4. User recieves the sms code and enters it into the form field
 5. If users code is successful then the user is redirected to the email page
-6. User will send a test email 
+6. User will send a test email
 
 Demo Applicatino is built on Python and Flask
 
@@ -20,3 +20,6 @@ dotenv
 flask mail
 
 
+Tutorials:
+https://www.twilio.com/blog/basic-flask-python-twilio-verify
+https://sendgrid.com/blog/sending-emails-from-python-flask-applications-with-twilio-sendgrid/
